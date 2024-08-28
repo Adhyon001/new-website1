@@ -1,0 +1,17 @@
+h1{
+    font-size: 50px;
+}
+span{
+    color: orange;
+}
+.Half-width{
+     width: 40%;
+    float: left;
+    margin-left: 2px;
+    margin-left: 5px;
+}
+.Half-width img{
+    width: 100%;
+
+    padding-left:150px;
+}
